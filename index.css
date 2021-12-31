@@ -1,0 +1,14 @@
+body{
+	 border-image: url(fondo1.png)
+}
+
+.direccion-de-la-carta{
+	display: inline-block;
+	margin-left: 1000px;
+
+}
+
+.am{
+	display: inline-block;
+	margin-top: 50px;
+}
